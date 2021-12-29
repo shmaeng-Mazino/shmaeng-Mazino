@@ -1,4 +1,6 @@
-### Hi there 👋
+```
+코딩 잘하는거도 중요하지만 문제해결을 더 잘하는 개발자가 되는 중!!
+```
 
 <!--
 **shmaeng-Mazino/shmaeng-Mazino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
